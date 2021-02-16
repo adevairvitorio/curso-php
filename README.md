@@ -17,9 +17,10 @@ git clone https://github.com/adevairvitorio/curso-php.git
 Instale o XAMPP : [LINK XAMPP](https://www.apachefriends.org/pt_br/download.html)
 
 ### Adicione a pasta do projeto dentro da pasta htdocs do XAMPP
-
+![alt text](https://github.com/adevairvitorio/curso-php/blob/imagens/htdocs.png?raw=true)
 
 ### Inicie o Apache pelo XAMPP:
+![alt text](https://github.com/adevairvitorio/curso-php/blob/imagens/XAMPP.png?raw=true)
 
 
 
