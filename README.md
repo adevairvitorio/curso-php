@@ -1,6 +1,6 @@
 # Curso PHP Completo
 
-> Status do Projeto: Concluido :heavy_check_mark:
+> Status do Projeto: Concluído :heavy_check_mark:
 
 
 Adevair Vitório – [@adevairvitorio](https://twitter.com/dbader_org) – contato@adevirvitorio.com
