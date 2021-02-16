@@ -8,7 +8,13 @@
 > contato@adevirvitorio.com
 
 
-## Estrutura do Curso:
+## Como utilizar o curso :
+1. Clone o repositório:
+```sh
+git clone https://github.com/adevairvitorio/curso-php.git
+```
+
+
 
 
 
