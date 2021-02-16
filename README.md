@@ -9,10 +9,23 @@
 
 
 ## Como utilizar o curso :
-1. Clone o repositório:
+### Clone o repositório:
 ```sh
 git clone https://github.com/adevairvitorio/curso-php.git
 ```
+### Entre na pasta do projeto:
+Instale o XAMPP : [LINK XAMPP](https://www.apachefriends.org/pt_br/download.html)
+
+### Adicione a pasta do projeto dentro da pasta htdocs do XAMPP
+
+
+## Inicie o Apache pelo XAMPP:
+
+
+
+## Acesse o projeto pelo navegador :
+
+[localhost/curso-php/index.php](http://localhost/curso-php/index.php)
 
 
 
