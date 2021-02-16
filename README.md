@@ -19,11 +19,11 @@ Instale o XAMPP : [LINK XAMPP](https://www.apachefriends.org/pt_br/download.html
 ### Adicione a pasta do projeto dentro da pasta htdocs do XAMPP
 
 
-## Inicie o Apache pelo XAMPP:
+### Inicie o Apache pelo XAMPP:
 
 
 
-## Acesse o projeto pelo navegador :
+### Acesse o projeto pelo navegador :
 
 [localhost/curso-php/index.php](http://localhost/curso-php/index.php)
 
