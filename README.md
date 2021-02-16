@@ -2,11 +2,11 @@
 
 > Status do Projeto: Concluído :heavy_check_mark:
 
+Contato: 
+> Adevair Vitório 
+> [@adevairvitorio](https://twitter.com/dbader_org) 
+> contato@adevirvitorio.com
 
-Adevair Vitório – [@adevairvitorio](https://twitter.com/dbader_org) – contato@adevirvitorio.com
-
-
-[https://github.com/adevairvitorio](https://github.com/adevairvitorio)
 
 ## Estrutura do Curso:
 
